@@ -52,7 +52,7 @@ def do_intersect(seg1, seg2):
 
 # Example usage
 if __name__ == "__main__":
-    p1 = (1.0, 1.0)
+    p1 = (1, 1.0)
     p2 = (4.0, 4.0)
     p3 = (2.0, 4.0)
     p4 = (4.0, 2.0)
